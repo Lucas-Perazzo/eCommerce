@@ -64,4 +64,4 @@ buck-out/
 /vendor/bundle/
 
 # Env
-.env
+*.env
